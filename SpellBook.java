@@ -15,7 +15,7 @@ class SpellBook{
 		lesSpellDescs("SpellDescs.txt");
 		lesKarakterer("Characters.txt");
 		lesFeats("Feats.txt");
-		//meny();
+		meny();
 	}
 
 	static void lesSpellList(String filnavn) throws Exception{
