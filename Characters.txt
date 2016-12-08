@@ -1,0 +1,38 @@
+Balasar
+Dragonborn
+Warlock
+6
+2
+3
+Charisma
+15
+7
+Eldritch Blast
+Blade Ward
+Mage Hand
+Fire Bolt
+Produce Flame
+Thorn Whip
+Ray of Frost
+Armor of Agathys
+Witch Bolt
+Cloud of Daggers
+Mirror Image
+Shatter
+Magic Circle
+Vampiric Touch
+
+Character:
+Antiboris
+Halforc
+Wizard
+6
+13
+3
+Intelligence
+15
+7
+Color Spray
+Levitate
+Fly
+Disguise Self
